@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Normanar.github.io/static/css/main.4b56e08f.chunk.css",
-    "main.js": "/Normanar.github.io/static/js/main.b43c2d4b.chunk.js",
-    "main.js.map": "/Normanar.github.io/static/js/main.b43c2d4b.chunk.js.map",
-    "runtime-main.js": "/Normanar.github.io/static/js/runtime-main.b9f4cbd7.js",
-    "runtime-main.js.map": "/Normanar.github.io/static/js/runtime-main.b9f4cbd7.js.map",
-    "static/js/2.4bff575b.chunk.js": "/Normanar.github.io/static/js/2.4bff575b.chunk.js",
-    "static/js/2.4bff575b.chunk.js.map": "/Normanar.github.io/static/js/2.4bff575b.chunk.js.map",
-    "static/js/3.6ef43ef3.chunk.js": "/Normanar.github.io/static/js/3.6ef43ef3.chunk.js",
-    "static/js/3.6ef43ef3.chunk.js.map": "/Normanar.github.io/static/js/3.6ef43ef3.chunk.js.map",
-    "index.html": "/Normanar.github.io/index.html",
-    "static/css/main.4b56e08f.chunk.css.map": "/Normanar.github.io/static/css/main.4b56e08f.chunk.css.map",
-    "static/js/2.4bff575b.chunk.js.LICENSE.txt": "/Normanar.github.io/static/js/2.4bff575b.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.4b56e08f.chunk.css",
+    "main.js": "/static/js/main.b43c2d4b.chunk.js",
+    "main.js.map": "/static/js/main.b43c2d4b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ff160082.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ff160082.js.map",
+    "static/js/2.4bff575b.chunk.js": "/static/js/2.4bff575b.chunk.js",
+    "static/js/2.4bff575b.chunk.js.map": "/static/js/2.4bff575b.chunk.js.map",
+    "static/js/3.6ef43ef3.chunk.js": "/static/js/3.6ef43ef3.chunk.js",
+    "static/js/3.6ef43ef3.chunk.js.map": "/static/js/3.6ef43ef3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4b56e08f.chunk.css.map": "/static/css/main.4b56e08f.chunk.css.map",
+    "static/js/2.4bff575b.chunk.js.LICENSE.txt": "/static/js/2.4bff575b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9f4cbd7.js",
+    "static/js/runtime-main.ff160082.js",
     "static/js/2.4bff575b.chunk.js",
     "static/css/main.4b56e08f.chunk.css",
     "static/js/main.b43c2d4b.chunk.js"
