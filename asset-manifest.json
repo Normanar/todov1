@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Normanar.github.io/todov1/static/css/main.4b56e08f.chunk.css",
-    "main.js": "/Normanar.github.io/todov1/static/js/main.b43c2d4b.chunk.js",
-    "main.js.map": "/Normanar.github.io/todov1/static/js/main.b43c2d4b.chunk.js.map",
-    "runtime-main.js": "/Normanar.github.io/todov1/static/js/runtime-main.6741360b.js",
-    "runtime-main.js.map": "/Normanar.github.io/todov1/static/js/runtime-main.6741360b.js.map",
-    "static/js/2.4bff575b.chunk.js": "/Normanar.github.io/todov1/static/js/2.4bff575b.chunk.js",
-    "static/js/2.4bff575b.chunk.js.map": "/Normanar.github.io/todov1/static/js/2.4bff575b.chunk.js.map",
-    "static/js/3.6ef43ef3.chunk.js": "/Normanar.github.io/todov1/static/js/3.6ef43ef3.chunk.js",
-    "static/js/3.6ef43ef3.chunk.js.map": "/Normanar.github.io/todov1/static/js/3.6ef43ef3.chunk.js.map",
-    "index.html": "/Normanar.github.io/todov1/index.html",
-    "static/css/main.4b56e08f.chunk.css.map": "/Normanar.github.io/todov1/static/css/main.4b56e08f.chunk.css.map",
-    "static/js/2.4bff575b.chunk.js.LICENSE.txt": "/Normanar.github.io/todov1/static/js/2.4bff575b.chunk.js.LICENSE.txt"
+    "main.css": "/Normanar.github.io/static/css/main.4b56e08f.chunk.css",
+    "main.js": "/Normanar.github.io/static/js/main.b43c2d4b.chunk.js",
+    "main.js.map": "/Normanar.github.io/static/js/main.b43c2d4b.chunk.js.map",
+    "runtime-main.js": "/Normanar.github.io/static/js/runtime-main.b9f4cbd7.js",
+    "runtime-main.js.map": "/Normanar.github.io/static/js/runtime-main.b9f4cbd7.js.map",
+    "static/js/2.4bff575b.chunk.js": "/Normanar.github.io/static/js/2.4bff575b.chunk.js",
+    "static/js/2.4bff575b.chunk.js.map": "/Normanar.github.io/static/js/2.4bff575b.chunk.js.map",
+    "static/js/3.6ef43ef3.chunk.js": "/Normanar.github.io/static/js/3.6ef43ef3.chunk.js",
+    "static/js/3.6ef43ef3.chunk.js.map": "/Normanar.github.io/static/js/3.6ef43ef3.chunk.js.map",
+    "index.html": "/Normanar.github.io/index.html",
+    "static/css/main.4b56e08f.chunk.css.map": "/Normanar.github.io/static/css/main.4b56e08f.chunk.css.map",
+    "static/js/2.4bff575b.chunk.js.LICENSE.txt": "/Normanar.github.io/static/js/2.4bff575b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6741360b.js",
+    "static/js/runtime-main.b9f4cbd7.js",
     "static/js/2.4bff575b.chunk.js",
     "static/css/main.4b56e08f.chunk.css",
     "static/js/main.b43c2d4b.chunk.js"
