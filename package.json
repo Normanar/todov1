@@ -27,7 +27,7 @@
     "uuid": "^8.3.2",
     "web-vitals": "^1.0.1"
   },
-  "homepage" : "https://Normanar.github.io/",
+  "homepage" : ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
